@@ -1,5 +1,7 @@
 # DevOps Challenge API
 
+Small project for [DevOps Challenge](https://gist.github.com/creativ/f4cbe48beee81e84e28604c8446a5cf4).
+
 ## Requirements
 
 You'll need Node.js 5.x version.
